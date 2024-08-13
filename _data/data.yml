@@ -17,30 +17,33 @@ sidebar:
     website: csdl.postech.ac.kr #do not add http://
     
     languages:
-      - idiom: English
-        level: Professional
+        title: Languages
+        info:
+          - idiom: English
+            level: Professional
 
-      - idiom: Korean
-        level: Native
+          - idiom: Korean
+            level: Native
 
       
     interests:
-      - item: Soccer
-        link:
+        title: interests
+        info:
+          - item: Soccer
+            link:
 
-      - item: Rap
-        link: soundcloud.com/seongyeol-lee-46291984?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+          - item: Rap
+            link: soundcloud.com/seongyeol-lee-46291984?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I received B.S. degree in Electrical Engineering from Korea Advanced Institute of Technology (KAIST).
+      I am M.S.-Ph.D candidate with the CSDL lab under [Prof. Seokhyeong Kang](http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub3_1) in the Department of 
+      Electrical Engineering at Pohang University of Science and Technology (POSTECH), South Korea. 
+      I am interested in VLSI CAD (Computer-Aided Design).
+
 education:
     - degree: MSc in Computer Science
       university: University of London
