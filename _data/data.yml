@@ -58,10 +58,6 @@ experiences:
         time: 2021.12 - 2022.01
         company: Sk hynix
       
-awards:
-    title: Awards
-    #awards:
-        #- title: 
       
 publications:
     title: Publications
@@ -72,6 +68,10 @@ publications:
     #    authors: Donald E. Knuth
     #    conference: Addison-Wesley, 1968
 
+publication:
+    title: Awards
+    #awards:
+        #- title: 
      
 skills:
     title: Skills &amp; Proficiency
