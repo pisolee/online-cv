@@ -45,10 +45,9 @@ career-profile:
       I am interested in VLSI CAD (Computer-Aided Design).
 
 education:
-    title: Education
-        - degree: B.S. in Electrical Engineering
-          university: Korea Advanced Institute of Science and Technology (KAIST)
-          time: 2016.03 - 2023.02
+    - degree: B.S. in Electrical Engineering
+      university: Korea Advanced Institute of Science and Technology (KAIST)
+      time: 2016.03 - 2023.02
       
 #experiences:
 #    title: Experience
