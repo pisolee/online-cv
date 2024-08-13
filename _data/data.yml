@@ -44,26 +44,26 @@ career-profile:
       Electrical Engineering at Pohang University of Science and Technology (POSTECH), South Korea. 
       I am interested in VLSI CAD (Computer-Aided Design).
 
-education:
-    title: Education
-        - degree: B.S. in Electrical Engineering
-          university: Korea Advanced Institute of Science and Technology (KAIST)
-          time: 2016.03 - 2023.02
+#education:
+#    title: Education
+#        - degree: B.S. in Electrical Engineering
+#          university: Korea Advanced Institute of Science and Technology (KAIST)
+#          time: 2016.03 - 2023.02
       
-experiences:
-    title: Experience
-    info:
-        - role: Internship
-          time: 2021.12 - 2022.01
-          company: Sk hynix
+#experiences:
+#    title: Experience
+#    info:
+#        - role: Internship
+#          time: 2021.12 - 2022.01
+#          company: Sk hynix
       
-awards:
-    title: Awards
-    #awards:
-        #- title: 
+#awards:
+#    title: Awards
+#    #awards:
+#        #- title: 
       
-publications:
-    title: Publications
+#publications:
+#    title: Publications
     
     #papers:
     #  - title: The Art of Computer Programming
