@@ -46,6 +46,7 @@ career-profile:
 
 education:
     title: Education
+    info:
         - degree: B.S. in Electrical Engineering
           university: Korea Advanced Institute of Science and Technology (KAIST)
           time: 2016.03 - 2023.02
