@@ -30,11 +30,11 @@ sidebar:
         title: interests
         info:
           - item: Soccer
-            link:
+            link: 
 
           - item: Rap
-            link: soundcloud.com/seongyeol-lee-46291984?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
-
+            link: https://soundcloud.com/seongyeol-lee-46291984?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+            
 career-profile:
     title: Career Profile
     summary: |
